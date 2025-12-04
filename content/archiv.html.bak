@@ -4,11 +4,19 @@
     <title>1</title>
   </head>
   <body>
-    <div style="text-align: left;"><b>Roháč<br>
+    <div style="text-align: left;">
+      <div style="text-align: center;"><b>ROHkˇ.......<br>
+          <img longdesc="../../Trst%C3%ADn%20-%20str%C3%A1nka/2003-3.JPG" title="roháč"
+            alt="" src="../../Trst%C3%ADn%20-%20str%C3%A1nka/2003-3.JPG"><br>
+        </b></div>
+      <b><br>
         <br>
       </b>
-      <div style="text-align: center;"><b> </b><img style="width: 670px; height: 503px;"
-          title="Roháč" alt="" src="../../Trst%C3%ADn%20-%20str%C3%A1nka/2003-3.JPG"></div>
+      <div style="text-align: center;"><br>
+      </div>
+      <b> <br>
+      </b>
+      <div style="text-align: center;"><b> </b></div>
     </div>
   </body>
 </html>
