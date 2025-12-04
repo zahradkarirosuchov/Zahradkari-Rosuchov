@@ -4,7 +4,18 @@
     <title>1</title>
   </head>
   <body>
-    <div style="text-align: center;"><img style="width: 340px; height: 255px;" longdesc="../../../Trst%C3%ADn%20-%20str%C3%A1nka/2001.JPG"
-        title="Roháč" alt="" src="file:///C:/Users/halad/Desktop/Trst%C3%ADn%20-%20str%C3%A1nka/2003-3.JPG"></div>
+    <div style="text-align: left;">
+      <div style="text-align: center;"><b>ROHáČ</b></div>
+      <b><br>
+        <br>
+      </b>
+      <div style="text-align: center;"><b><img style="width: 578px; height: 433px;"
+            longdesc="../../../Trst%C3%ADn%20-%20str%C3%A1nka/2003-3.JPG" title="XXX"
+            alt="" src="../../../Trst%C3%ADn%20-%20str%C3%A1nka/2003-3.JPG"></b><br>
+      </div>
+      <b> <br>
+      </b>
+      <div style="text-align: center;"><b> </b></div>
+    </div>
   </body>
 </html>
