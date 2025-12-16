@@ -1,42 +1,11 @@
-<!DOCTYPE html>
-<html lang="sk">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Záhradkári Rosuchov</title>
-<link rel="stylesheet" href="css/style.css">
-</head>
-
-<body>
-
-<header>
-    <h1>Záhradkári Rosuchov</h1>
-</header>
-
-<div class="container">
-
-    <!-- BOČNÉ MENU -->
-    <nav class="sidebar">
-        <ul>
-            <li><a href="index.html">O nás</a></li>
-            <li><a href="praca.html">Práca záhradkára</a></li>
-            <li><a href="aktualne.html">Aktuálne obrázky</a></li>
-            <li><a href="spravy.html">Správy</a></li>
-            <li><a href="archiv.html">Archív</a></li>
-            <li><a href="kontakt.html">Kontakt</a></li>
-        </ul>
-    </nav>
-
-   <main class="content">
-    <h2>Práca záhradkára</h2>
-    <p>Tu môžeš mať články, rady podľa ročných období...</p>
-</main>
-
-</div>
-
-<footer>
-    <p>© 2025 Záhradkári Rosuchov</p>
-</footer>
-
-</body>
+<html>
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <title>Január</title>
+  </head>
+  <body><br>
+    <br>
+    <br>
+    PRÁCA ZÁHRADKÁRA
+  </body>
 </html>
