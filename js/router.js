@@ -3,7 +3,11 @@ async function loadPage(page) {
 
     try {
         const response = await fetch(`content/${page}.html`);
-        const html = await response.text();
+        let html = await response.text();
+
+        // oprava ciest k obrázkom
+        html = html.replace(/src="obrazky\//g, 'src="content/obrazky/');
+
         content.innerHTML = html;
     } catch {
         content.innerHTML = "<h2>Stránka neexistuje</h2>";
@@ -19,3 +23,4 @@ function router() {
 
 window.addEventListener("hashchange", router);
 window.addEventListener("load", router);
+
