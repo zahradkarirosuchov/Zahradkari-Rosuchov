@@ -11,6 +11,11 @@ async function loadPage(page) {
         content.innerHTML = html;
     } catch {
         content.innerHTML = "<h2>Stránka neexistuje</h2>";
+    } finally {
+        // Na malých obrazovkách po kliknutí v menu presuň viewport na obsah.
+        requestAnimationFrame(() => {
+            content.scrollIntoView({ behavior: "smooth", block: "start" });
+        });
     }
 }
 
