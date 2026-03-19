@@ -11,10 +11,10 @@
           class="Yjhzub" data-sfc-cb="" data-processed="true" style="font-weight: bolder;">Máj
           v záhrade:</strong><br>
         <br>
-        Zeleninová záhrada:</strong><span class="txxDge notranslate" data-sfc-root="c"
-        data-wiz-uids="oUpT6_m,oUpT6_n" data-sfc-cb="" data-processed="true" style="visibility: hidden;"><span
-          class="vKEkVd" data-animation-atomic="" data-wiz-attrbind="class=oUpT6_l/TKHnVd"
-          data-processed="true" style="white-space: nowrap; position: relative; --btn-bg-color: #e5edff; --btn-bg-color-hover: #d3e3fd; --attr-text-color: #545d7e; --attr-link-color: #0a0a0a;"><span
+        <u><i>Zeleninová záhrada:</i></u></strong><span class="txxDge notranslate"
+        data-sfc-root="c" data-wiz-uids="oUpT6_m,oUpT6_n" data-sfc-cb="" data-processed="true"
+        style="visibility: hidden;"><span class="vKEkVd" data-animation-atomic=""
+          data-wiz-attrbind="class=oUpT6_l/TKHnVd" data-processed="true" style="white-space: nowrap; position: relative; --btn-bg-color: #e5edff; --btn-bg-color-hover: #d3e3fd; --attr-text-color: #545d7e; --attr-link-color: #0a0a0a;"><span
             data-processed="true"></span><button tabindex="0" data-amic="true" data-icl-uuid="cce6a858-f635-4b48-9551-c61e178afb9b"
             class="rBl3me" data-wiz-attrbind="disabled=oUpT6_l/C5gNJc;aria-label=oUpT6_l/bOjMyf;class=oUpT6_l/UpSNec"
             data-ved="2ahUKEwizlKzLzquTAxVNnf0HHd5HNQoQye0OegQIAhAB" data-hveid="CAIQAQ"
@@ -46,12 +46,13 @@
             data-sfc-cb="" data-processed="true" style="font-weight: bolder;">Starostlivosť:</strong><span>&nbsp;</span>Pravidelne
           okopávame, odburiňujeme a v prípade sucha zavlažujeme.</span></li>
       <li class="dF3vjf" data-sfc-root="c" data-sfc-cb="" data-hveid="CAMQAg" data-processed="true"
-        style="margin: 0px 0px 12px; padding: 0px; list-style: disc; padding-inline-start: 4px;"><strong
-          class="Yjhzub" data-sfc-root="c" data-sfc-cb="" data-processed="true"
-          style="font-weight: bolder;">Ovocná záhrada a bylinky:</strong><span class="txxDge notranslate"
-          data-sfc-root="c" data-wiz-uids="oUpT6_18,oUpT6_19" data-sfc-cb="" data-processed="true"
-          style="visibility: hidden;"><span class="vKEkVd" data-animation-atomic=""
-            data-wiz-attrbind="class=oUpT6_17/TKHnVd" data-processed="true" style="white-space: nowrap; position: relative; --btn-bg-color: #e5edff; --btn-bg-color-hover: #d3e3fd; --attr-text-color: #545d7e; --attr-link-color: #0a0a0a;"><span
+        style="margin: 0px 0px 12px; padding: 0px; list-style: disc; padding-inline-start: 4px;"><i><u><strong
+              class="Yjhzub" data-sfc-root="c" data-sfc-cb="" data-processed="true"
+              style="font-weight: bolder;">Ovocná záhrada a bylinky:</strong></u></i><span
+          class="txxDge notranslate" data-sfc-root="c" data-wiz-uids="oUpT6_18,oUpT6_19"
+          data-sfc-cb="" data-processed="true" style="visibility: hidden;"><span
+            class="vKEkVd" data-animation-atomic="" data-wiz-attrbind="class=oUpT6_17/TKHnVd"
+            data-processed="true" style="white-space: nowrap; position: relative; --btn-bg-color: #e5edff; --btn-bg-color-hover: #d3e3fd; --attr-text-color: #545d7e; --attr-link-color: #0a0a0a;"><span
               data-processed="true"></span><button tabindex="0" data-amic="true"
               data-icl-uuid="aba48362-78ec-41d6-8e26-b8e4b7622234" class="rBl3me"
               data-wiz-attrbind="disabled=oUpT6_17/C5gNJc;aria-label=oUpT6_17/bOjMyf;class=oUpT6_17/UpSNec"
@@ -89,9 +90,9 @@
               data-processed="true"></span></span></span><strong class="Yjhzub"
           data-sfc-root="c" data-sfc-cb="" data-processed="true" style="font-weight: bolder;"></strong></li>
       <li class="dF3vjf" data-sfc-root="c" data-sfc-cb="" data-hveid="CAUQAg" data-processed="true"
-        style="margin: 0px 0px 12px; padding: 0px; list-style: disc; padding-inline-start: 4px;"><strong
-          class="Yjhzub" data-sfc-root="c" data-sfc-cb="" data-processed="true"
-          style="font-weight: bolder;">Okrasná záhrada a trávnik:</strong><span
+        style="margin: 0px 0px 12px; padding: 0px; list-style: disc; padding-inline-start: 4px;"><i><u><strong
+              class="Yjhzub" data-sfc-root="c" data-sfc-cb="" data-processed="true"
+              style="font-weight: bolder;">Okrasná záhrada a trávnik:</strong></u></i><span
           class="txxDge notranslate" data-sfc-root="c" data-wiz-uids="oUpT6_1u,oUpT6_1v"
           data-sfc-cb="" data-processed="true" style="visibility: hidden;"><span
             class="vKEkVd" data-animation-atomic="" data-wiz-attrbind="class=oUpT6_1t/TKHnVd"
@@ -130,8 +131,11 @@
           class="uJ19be notranslate" data-sfc-root="c" data-wiz-uids="oUpT6_27,oUpT6_28"
           data-sfc-cb="" data-processed="true"><span class="vKEkVd" data-animation-atomic=""
             data-wiz-attrbind="class=oUpT6_26/TKHnVd" data-processed="true" style="white-space: nowrap; position: relative; --btn-bg-color: #e5edff; --btn-bg-color-hover: #d3e3fd; --attr-text-color: #545d7e; --attr-link-color: #0a0a0a;"><span
-              data-processed="true"> <br>
-            </span></span></span></li>
+              data-processed="true"> </span></span></span><br>
+        <div style="text-align: center;"><span class="T286Pc" data-sfc-cp="" data-sfc-root="c"
+            data-sfc-cb="" data-processed="true" style="overflow-wrap: break-word;"><br>
+          </span></div>
+      </li>
     </ul>
   </body>
 </html>

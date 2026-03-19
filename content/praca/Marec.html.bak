@@ -4,13 +4,13 @@
     <meta content="text/html; charset=UTF-8" http-equiv="content-type">
     <title>práca marec</title>
   </head>
-  <body>
+  <body><span style="font-family: monospace;"><span style="color: #1b1a1a;"><span
+          style="font-family: __Roboto_Slab_02f2ec,__Roboto_Slab_Fallback_02f2ec;"></span></span></span>
     <div id="headingBlock-2" class="HeadingBlock_wrapper__UtdLJ" style="box-sizing: border-box; padding: 0px; margin: 0px; color: rgb(27, 26, 26); font-family: __Roboto_Slab_02f2ec, __Roboto_Slab_Fallback_02f2ec; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(252, 249, 244); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
-      <h1 id="headingComponentId" class="Heading_heading__Z2oPL" data-don="article_title"
-        style="box-sizing: border-box; padding: 0px; margin: 0px; font-family: __Roboto_Slab_02f2ec, __Roboto_Slab_Fallback_02f2ec; font-size: clamp(24px, 3vw, 36px); font-weight: 700; line-height: clamp(28px, 3vw, 40px); letter-spacing: clamp(-0.48px, 3vw, -0.72px); color: rgb(27, 26, 26); outline: none; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(252, 249, 244); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">Marec
-        v záhrade!</h1>
-      <h2 style="box-sizing: border-box; padding: 0px; margin: 0px; font-family: __Roboto_Slab_02f2ec, __Roboto_Slab_Fallback_02f2ec; font-size: clamp(24px, 3vw, 28px); font-weight: 700; line-height: 34px;">Okrasná
-        záhrada</h2>
+      <h2 style="box-sizing: border-box; padding: 0px; margin: 0px; font-family: __Roboto_Slab_02f2ec, __Roboto_Slab_Fallback_02f2ec; font-size: clamp(24px, 3vw, 28px); font-weight: 700; line-height: 34px;">Marec
+        v záhrade:</h2>
+      <h2 style="box-sizing: border-box; padding: 0px; margin: 0px; font-family: __Roboto_Slab_02f2ec, __Roboto_Slab_Fallback_02f2ec; font-size: clamp(24px, 3vw, 28px); font-weight: 700; line-height: 34px;"><u><i>Okrasná
+            záhrada</i></u></h2>
     </div>
     <div id="paragraphBlock-2" class="ParagraphBlock_wrapper__QkYgi" style="box-sizing: border-box; padding: 0px; margin: 0px; outline: none; color: rgb(27, 26, 26); font-family: __Roboto_Slab_02f2ec, __Roboto_Slab_Fallback_02f2ec; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(252, 249, 244); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
       <p class="ParagraphBlock_paragraph__hJWYe" style="box-sizing: border-box; padding: 0px; margin: 0px; outline: none; font-family: __Open_Sans_9a91dc, __Open_Sans_Fallback_9a91dc; font-size: 18px; font-style: normal; font-weight: 400; line-height: 1.6; color: rgb(27, 26, 26);">1.
@@ -40,8 +40,8 @@
       <p class="ParagraphBlock_paragraph__hJWYe" style="box-sizing: border-box; padding: 0px; margin: 0px; outline: none; font-family: __Open_Sans_9a91dc, __Open_Sans_Fallback_9a91dc; font-size: 18px; font-style: normal; font-weight: 400; line-height: 1.6; color: rgb(27, 26, 26);"><br>
       </p>
       <div id="headingBlock-1" class="HeadingBlock_wrapper__UtdLJ" style="box-sizing: border-box; padding: 0px; margin: 0px; color: rgb(27, 26, 26); outline: none; font-family: __Roboto_Slab_02f2ec, __Roboto_Slab_Fallback_02f2ec; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(252, 249, 244); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
-        <h2 style="box-sizing: border-box; padding: 0px; margin: 0px; font-family: __Roboto_Slab_02f2ec, __Roboto_Slab_Fallback_02f2ec; font-size: clamp(24px, 3vw, 28px); font-weight: 700; line-height: 34px; outline: none;">Zeleninová
-          záhrada</h2>
+        <h2 style="box-sizing: border-box; padding: 0px; margin: 0px; font-family: __Roboto_Slab_02f2ec, __Roboto_Slab_Fallback_02f2ec; font-size: clamp(24px, 3vw, 28px); font-weight: 700; line-height: 34px; outline: none;"><u><i>Zeleninová
+              záhrada</i></u></h2>
       </div>
       <div id="paragraphBlock-3" class="ParagraphBlock_wrapper__QkYgi" style="box-sizing: border-box; padding: 0px; margin: 0px; color: rgb(27, 26, 26); font-family: __Roboto_Slab_02f2ec, __Roboto_Slab_Fallback_02f2ec; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(252, 249, 244); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
         <p class="ParagraphBlock_paragraph__hJWYe" style="box-sizing: border-box; padding: 0px; margin: 0px; font-family: __Open_Sans_9a91dc, __Open_Sans_Fallback_9a91dc; font-size: 18px; font-style: normal; font-weight: 400; line-height: 1.6; color: rgb(27, 26, 26);">1.
@@ -72,8 +72,8 @@
         <p class="ParagraphBlock_paragraph__hJWYe" style="box-sizing: border-box; padding: 0px; margin: 0px; font-family: __Open_Sans_9a91dc, __Open_Sans_Fallback_9a91dc; font-size: 18px; font-style: normal; font-weight: 400; line-height: 1.6; color: rgb(27, 26, 26);"><br>
         </p>
         <div id="headingBlock-3" class="HeadingBlock_wrapper__UtdLJ" style="box-sizing: border-box; padding: 0px; margin: 0px; color: rgb(27, 26, 26); outline: none; font-family: __Roboto_Slab_02f2ec, __Roboto_Slab_Fallback_02f2ec; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(252, 249, 244); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
-          <h2 style="box-sizing: border-box; padding: 0px; margin: 0px; font-family: __Roboto_Slab_02f2ec, __Roboto_Slab_Fallback_02f2ec; font-size: clamp(24px, 3vw, 28px); font-weight: 700; line-height: 34px; outline: none;">Ovocná
-            záhrada</h2>
+          <h2 style="box-sizing: border-box; padding: 0px; margin: 0px; font-family: __Roboto_Slab_02f2ec, __Roboto_Slab_Fallback_02f2ec; font-size: clamp(24px, 3vw, 28px); font-weight: 700; line-height: 34px; outline: none;"><u><i>Ovocná
+                záhrada</i></u></h2>
         </div>
         <div id="paragraphBlock-4" class="ParagraphBlock_wrapper__QkYgi" style="box-sizing: border-box; padding: 0px; margin: 0px; color: rgb(27, 26, 26); font-family: __Roboto_Slab_02f2ec, __Roboto_Slab_Fallback_02f2ec; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(252, 249, 244); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
           <p class="ParagraphBlock_paragraph__hJWYe" style="box-sizing: border-box; padding: 0px; margin: 0px; font-family: __Open_Sans_9a91dc, __Open_Sans_Fallback_9a91dc; font-size: 18px; font-style: normal; font-weight: 400; line-height: 1.6; color: rgb(27, 26, 26);">1.
