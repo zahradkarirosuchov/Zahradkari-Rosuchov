@@ -47,10 +47,19 @@ header {
     flex: 1;
     padding: 20px 30px;
     background: white;
+    min-width: 0; /* lets flex child shrink so images can respect max-width: 100% */
+}
+
+/* All images in main content scale down to the column; never wider than the page */
+.content img {
+    max-width: 100%;
+    height: auto;
 }
 
 .gallery img {
     width: 200px;
+    max-width: 100%;
+    height: auto;
     margin: 5px;
     border-radius: 5px;
 }
