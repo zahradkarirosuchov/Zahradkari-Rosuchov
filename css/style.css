@@ -50,16 +50,18 @@ header {
     min-width: 0; /* lets flex child shrink so images can respect max-width: 100% */
 }
 
-/* All images in main content scale down to the column; never wider than the page */
+/* All images in main content scale down to the column; never wider than the page.
+   Inline width+height on many fragments would keep a fixed height and squash/stretch
+   the bitmap when max-width shrinks the width — force height to follow aspect ratio. */
 .content img {
     max-width: 100%;
-    height: auto;
+    height: auto !important;
 }
 
 .gallery img {
     width: 200px;
     max-width: 100%;
-    height: auto;
+    height: auto !important;
     margin: 5px;
     border-radius: 5px;
 }
